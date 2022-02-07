@@ -199,8 +199,8 @@ a {
 }
 
 @keyframes  bounce {
-    from {top: 35rem;}
-    to {top: 40rem;}
+    from {top: 30rem;}
+    to {top: 35rem;}
 }
  @keyframes beat {
   0% {  transform: scale3d(1, 1, 1);  }
